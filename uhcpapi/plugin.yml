@@ -1,0 +1,5 @@
+name: uhcpapi
+version: 1.0
+main: host.goldenuhc.uhcpapi.Main
+api-version: 1.8
+authors: theencomputers
